@@ -1,8 +1,0 @@
-ros-hydro-cmvision (0.4.0-0precise) precise; urgency=high
-
-  * Ported cmvision to github from  wg-ros-pkg
-  * Catkinized for release into ROS Hydro
-
- -- Piyush Khandelwal <piyushk@gmail.com>  Fri, 30 Aug 2013 05:00:00 -0000
-
-
