@@ -1,0 +1,12 @@
+Source: ros-hydro-cmvision
+Section: misc
+Priority: extra
+Maintainer: Piyush Khandelwal <piyushk@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), fluid, libfltk1.1-dev, libwxgtk2.8-dev, ros-hydro-catkin, ros-hydro-cv-bridge, ros-hydro-message-generation, ros-hydro-opencv2, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-std-msgs
+Homepage: http://ros.org/wiki/cmvision
+Standards-Version: 3.9.2
+
+Package: ros-hydro-cmvision
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, fluid, libfltk1.1-dev, libwxgtk2.8-dev, ros-hydro-cv-bridge, ros-hydro-message-runtime, ros-hydro-opencv2, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-std-msgs
+Description: Node for the Color Machine Vision Project, used for fast color blob detection

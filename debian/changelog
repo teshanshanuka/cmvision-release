@@ -1,0 +1,22 @@
+ros-hydro-cmvision (0.4.2-0precise) precise; urgency=high
+
+  * Merge pull request #2 <https://github.com/utexas-bwi/cmvision/issues/2> from OSUrobotics/hydro-devel
+    Include color name in the blob message.
+  * Contributors: Alex Hubers
+
+ -- Piyush Khandelwal <piyushk@gmail.com>  Mon, 02 Mar 2015 06:00:00 -0000
+
+ros-hydro-cmvision (0.4.1-0precise) precise; urgency=high
+
+  * fixed missing fltk dependency. closes #1 <https://github.com/utexas-bwi/cmvision/issues/1>
+
+ -- Piyush Khandelwal <piyushk@gmail.com>  Tue, 03 Sep 2013 05:00:00 -0000
+
+ros-hydro-cmvision (0.4.0-0precise) precise; urgency=high
+
+  * Ported cmvision to github from  wg-ros-pkg
+  * Catkinized for release into ROS Hydro
+
+ -- Piyush Khandelwal <piyushk@gmail.com>  Fri, 30 Aug 2013 05:00:00 -0000
+
+
