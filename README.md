@@ -1,3 +1,26 @@
+## cmvision (noetic) - 0.5.0-1
+
+The packages in the `cmvision` repository were released into the `noetic` distro by running `/usr/bin/bloom-release cmvision --rosdistro noetic` on `Tue, 24 Aug 2021 19:13:01 -0000`
+
+The `cmvision` package was released.
+
+Version of package(s) in repository `cmvision`:
+
+- upstream repository: https://github.com/teshanshanuka/cmvision.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## cmvision (hydro) - 0.4.2-0
 
 The packages in the `cmvision` repository were released into the `hydro` distro by running `/usr/bin/bloom-release cmvision --track hydro --rosdistro hydro` on `Mon, 02 Mar 2015 21:02:05 -0000`
