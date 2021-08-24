@@ -2,11 +2,9 @@
 Changelog for package cmvision
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.4.2 (2015-03-02)
+0.5.0 (2021-08-23)
 ------------------
-* Merge pull request `#2 <https://github.com/utexas-bwi/cmvision/issues/2>`_ from OSUrobotics/hydro-devel
-  Include color name in the blob message.
-* Contributors: Alex Hubers
+* Updated cmvision for OpenCV4 and ros-noetic
 
 0.4.1 (2013-09-03)
 ------------------
