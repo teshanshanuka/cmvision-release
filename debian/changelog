@@ -1,0 +1,20 @@
+ros-noetic-cmvision (0.5.0-2focal) focal; urgency=high
+
+  * Updated cmvision for OpenCV4 and ros-noetic
+
+ -- Piyush Khandelwal <piyushk@gmail.com>  Sun, 22 Aug 2021 18:30:00 -0000
+
+ros-noetic-cmvision (0.4.1-2focal) focal; urgency=high
+
+  * fixed missing fltk dependency. closes #1 <https://github.com/utexas-bwi/cmvision/issues/1>
+
+ -- Piyush Khandelwal <piyushk@gmail.com>  Mon, 02 Sep 2013 18:30:00 -0000
+
+ros-noetic-cmvision (0.4.0-2focal) focal; urgency=high
+
+  * Ported cmvision to github from  wg-ros-pkg
+  * Catkinized for release into ROS Hydro
+
+ -- Piyush Khandelwal <piyushk@gmail.com>  Thu, 29 Aug 2013 18:30:00 -0000
+
+
